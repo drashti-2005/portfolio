@@ -46,7 +46,7 @@ const Hero = () => {
         >
           <div className="relative w-64 h-64 md:w-96 md:h-96 rounded-full overflow-hidden border-4 border-blue-600 dark:border-blue-400">
             <Image
-              src="/images/profile.jpg"
+              src="/images/profile1.jpg"
               alt="Kalpesh Vala"
               fill
               className="object-cover object-top transform rotate-180 scale-y-[-1]"
