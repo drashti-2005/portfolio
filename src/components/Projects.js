@@ -13,7 +13,6 @@ const Projects = () => {
         'Full‑stack task‑manager system built with the MERN stack. Provides JWT‑secured authentication, due‑date reminders via email, and a REST API for mobile clients. Data persisted in MongoDB and deployed on Render.',
       image: '/task-manager.jpg',
       github: 'https://github.com/drashti-2005/task-manager',
-      demo: 'https://credit-card-fraud-detection-2oay.onrender.com/',
       video: '',
       tags: ['Next.js', 'Taiwind', 'MongoDB'],
     },
